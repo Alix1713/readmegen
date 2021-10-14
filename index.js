@@ -19,7 +19,7 @@
 //node index.js
 //fs.readfile('readme.md')
 
-const { fs } = require('fs');
+const fs = require('fs');
 const inquirer = require('inquirer');
 //these are my prompts in terminal
 inquirer
@@ -86,18 +86,18 @@ inquirer
             name: 'linkedin',
         },
     ])
-    .catch((data) => {
+    .then((data) => {
         const dataContent = generateTemplate(data)
         fs.writeFile('readme.md', dataContent, error => {
-            error.prompt('Please enter a response')
+            console.log(error)
         });
 
     })
 
-const generateTemplate = (data) =>
-    `
+const generateTemplate = (data) => {
+    return `
     #ReadME ${data.projectname}
-    'What ${projectname} application does'
+    'What ${data.projectname} application does'
    ${data.does}
    
 
@@ -126,4 +126,4 @@ const generateTemplate = (data) =>
    '#My LinkedIn:'
    ${data.linkedin} 
    `
-
+}
