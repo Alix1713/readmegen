@@ -2,7 +2,7 @@
   "name": "readmegen",
   "version": "1.0.0",
   "description": "This is a program to let you quickly generate a readme file for any project.",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
