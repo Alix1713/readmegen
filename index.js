@@ -65,7 +65,7 @@ inquirer
       type: "list",
       message: "Liscense",
       choices: Object.keys(liscensetoBadge), //what do I put here?
-      name: "Liscense",
+      name: "liscense",
     },
     {
       //Email

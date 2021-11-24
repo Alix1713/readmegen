@@ -1,7 +1,7 @@
 
-# ReadME new
-What new application does
-new
+# ReadME new readme
+What new readme application does
+readme
 
 # Table of Contents:
 1. [Installation](#how-to-install)
@@ -11,24 +11,24 @@ new
 5. [Contact information](#contact-information)
 
 ## How to install:
-new
+node
 
 ## How to use this project:
-new
+node
 
 ## Contributors:
-new
+yay! tutors are awesome
 
 ## Liscense:
-undefined
-undefined
+MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contact information
 ### Email:
-[email](mailto:new)
+[email](mailto:alix@alix.com)
 
 ### My GitHub:
-[github](new)
+[github](https://github.com/alix1713)
 
 ### My LinkedIn:
-[linkedin](www.google.com)
+[linkedin](https://www.linkedin.com/in/alix1713)
