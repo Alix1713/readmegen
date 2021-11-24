@@ -76,13 +76,13 @@ inquirer
     {
       //GitHub
       type: "input",
-      message: "GitHub Repo: ",
+      message: "GitHub Username: ",
       name: "github",
     },
     {
       //Linked In
       type: "input",
-      message: "Linkedin Url:",
+      message: "Linkedin Username:",
       name: "linkedin",
     },
   ])
@@ -126,9 +126,9 @@ ${liscensetoBadge[data.liscense]}
 [email](mailto:${data.email})
 
 ### My GitHub:
-[github](${data.github})
+[github](https://github.com/${data.github})
 
 ### My LinkedIn:
-[linkedin](${data.linkedin})
+[linkedin](https://www.linkedin.com/in/${data.linkedin})
 `;
 };
