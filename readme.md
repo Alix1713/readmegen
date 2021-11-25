@@ -1,7 +1,7 @@
 
-# ReadME new readme
-What new readme application does
-readme
+# ReadME ReadMe Generator
+What ReadMe Generator application does
+Creades a read me in the command line
 
 # Table of Contents:
 1. [Installation](#how-to-install)
@@ -11,13 +11,13 @@ readme
 5. [Contact information](#contact-information)
 
 ## How to install:
-node
+Run node index.js in your terminal
 
 ## How to use this project:
-node
+fill out the prompts
 
 ## Contributors:
-yay! tutors are awesome
+thanks to my tutor helping me solve the badges!
 
 ## Liscense:
 MIT

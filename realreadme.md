@@ -23,7 +23,8 @@ Give examples
 ## Deployed Link
 
 * [See Live Site](https://alix1713.github.io/readmegen/)
-[Link to Github](https://github.com/Alix1713/readmegen)
+* [Link to Github](https://github.com/Alix1713/readmegen)
+* [Link to youtube walkthrough](https://youtu.be/XMK39ITUTqc)
 
 ## Authors
 
